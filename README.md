@@ -5,10 +5,10 @@ This project consisted of querying data from a precompiled data base from hawaii
 **concepts utilized on the project:** <br />
 <ul>
 <li>Extracting data from SQLite (precompiled databases) files</li>
-<br>Communicate between Postgres and Python/Jupyter Notebook <br />
-<br>Query through databases with SQLAlchemy<br />
-<br>Creating an app.py to also be able to query the Database + send make it be able to send API calls.<br />
-<br>Be able to load data efficently from the ETL process <br />
+<li>Communicate between Postgres and Python/Jupyter Notebook</li>
+<li>Query through databases with SQLAlchemy</li>
+<li>Creating an app.py to also be able to query the Database + send make it be able to send API calls.</li>
+<li>Be able to load data efficently from the ETL process</li>
 </ul>
 
   **First opinon of settuping up the code:**
