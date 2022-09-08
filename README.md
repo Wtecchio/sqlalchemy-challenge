@@ -3,13 +3,13 @@
 This project consisted of querying data from a precompiled data base from hawaii.sqlite, and being able to serve the results through a local API with the library of SQLAlchemy + Flask. 
 
 **concepts utilized on the project:** <br />
-<br>Extracting data from SQLite (precompiled databases) files<br />
+<ul>
+<li>Extracting data from SQLite (precompiled databases) files</li>
 <br>Communicate between Postgres and Python/Jupyter Notebook <br />
 <br>Query through databases with SQLAlchemy<br />
 <br>Creating an app.py to also be able to query the Database + send make it be able to send API calls.<br />
 <br>Be able to load data efficently from the ETL process <br />
-<br />
-<br />
+</ul>
 
   **First opinon of settuping up the code:**
   
